@@ -8,3 +8,5 @@ Slides: http://bit.ly/WPWS4919<br>
 Project outcomes document: http://bit.ly/DHWakeOutcomes
 
 DISC resources: https://zsr.wfu.edu/digital-scholarship/
+
+DH@Wake final survey: http://bit.ly/dhwake2019 
