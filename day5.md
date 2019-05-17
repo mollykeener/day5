@@ -1,7 +1,7 @@
 # day5
 <b>WakeSites Workshop</b><br> 
 Self-hosting solution for DH projects and classroom blogs<br>
-sites.wfu.edu,br>
+sites.wfu.edu<br>
 Slides: http://bit.ly/WPWS4919<br>
 
 <b>Omeka</b><br>
