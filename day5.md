@@ -4,9 +4,6 @@ Self-hosting solution for DH projects and classroom blogs<br>
 https://sites.wfu.edu/<br>
 Slides: http://bit.ly/WPWS4919<br>
 
-<b>Omeka</b><br>
-A platform for showcasing digital collections that facilitates the creation of good metadata
-
 <b>Next steps</b><br>
 Project outcomes document: http://bit.ly/DHWakeOutcomes
 
